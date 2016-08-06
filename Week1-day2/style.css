@@ -33,6 +33,8 @@ h2 {
 #bio-image {
 	float: left;
 	margin: 5px;
+	height: 100px;
+	width: 100px;
 }
 
 <!---#main-bio {

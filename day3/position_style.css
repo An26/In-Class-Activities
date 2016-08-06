@@ -2,6 +2,22 @@ body {
 	
 	background-color: #eee;
 	line-height: 24px;
+	font-family: 'Indie Flower', cursive;
+}
+
+.new-text{
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.newer-text {
+	font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+.fa-lg{
+
+	/*height:200px;*/
+	/*width:200px;*/
 }
 
 .wrapper {
